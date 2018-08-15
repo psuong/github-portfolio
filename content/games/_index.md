@@ -4,6 +4,22 @@ description = "Some games I built & collaborated on"
 weight = 1
 +++
 
+### Derby ###
+Derby is an arcade racing / demolition derby game that uses a *mostly* pure 
+[Entity Component System](https://en.wikipedia.org/wiki/Entity–component–system). 
+While there is no dedicated website for the game right now, you can certainly follow progress on my 
+[Dev Blog](#) and the following related repos!
+
+Target platforms include:
+
+ * PC / Mac / Linux **[Primary]**
+ * Xbox One / Nintendo Switch **[Secondary]**
+
+| Repos     | Link    |
+|:---------:|:-------:|
+| Arcade Vehicle Controller | [Github](https://github.com/psuong/arcade-vehicle-controller) |
+| Common Structures         | [Github](https://github.com/psuong/common-structures) |
+
 #### Modern Knights
 Modern Knights is a WIP third person strategy/action game I'm currently working on at [initialPrefabs](http://initialprefabs.com/modern-knights/).
 
@@ -25,7 +41,7 @@ where you train your kitty to leap into boxes!
 |[Kitty in the Box VR](http://mokuni.com/press/sheet.php?p=Kitty%20in%20the%20Box%20VR) | N/A |
 
 #### Connect Four
-In my graduate AI class, I build with [Allen Kim](allenkim.github.io), a Connect Four game. The 
+In my graduate AI class, I built with [Allen Kim](allenkim.github.io), a Connect Four game. The 
 game uses different exploration/exploitation algorithms to create a competitive AI. The bots include:
 
 * Random
