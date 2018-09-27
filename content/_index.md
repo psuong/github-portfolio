@@ -3,21 +3,22 @@ title = "About Me"
 description = "Stuff about me"
 +++
 
-# About Me
+# About Me #
 
 <img src="/images/profile.jpg" alt="profile" style="border-radius: 50%">
 
-I graduated with a B.S. in Computer Science from the City College of New York. I am a **tinkerer** and 
-a **game developer** at [initialPrefabs](http://www.initialprefabs.com) building workflow tools and games.
+I graduated with a B.S. in Computer Science from the City College of New York. I am a former backend Software 
+Engineer at **Scholastic, Inc** and currently a Game Developer/Tinkerer at [initialPrefabs](http://www.initialprefabs.com).
 
 Technical languages I've primarily been working with include:
 
-* C++
-* C#
+* **C++, C#**
+* Java
 * Python
 
 My primary interests include:
 
+* Optimization/Parallelization
 * Game AI
-* Data Oriented Design
+* Graphics
 * Data Visualization within Games
