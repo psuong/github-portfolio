@@ -3,6 +3,3 @@
 
 ### OSX ###
 *.DS_Store
-
-### Deployment Repo ###
-/public/
