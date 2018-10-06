@@ -65,7 +65,7 @@ cos (theta) = (A . B) / (||A|| + ||B||)
 where,
 
 * `A` and `B` is a directional vector
-* `.` means the (dot product)[] of the two vectors
+* `.` means the [dot product](https://en.wikipedia.org/wiki/Dot_product) of the two vectors
 * `||A||` and `||B||` means the magnitude of the vectors `A` and `B`
 
 When getting the value `theta`, do note that theta is in **radians**. Since, it is easier to think in terms of 

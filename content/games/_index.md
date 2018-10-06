@@ -4,7 +4,7 @@ description = "Some games I built & collaborated on"
 weight = 1
 +++
 
-### Derby ###
+### [Derby](derby/) ###
 Derby is an arcade racing / demolition derby game that uses a *mostly* pure 
 [Entity Component System](https://en.wikipedia.org/wiki/Entity–component–system). 
 While there is no dedicated website for the game right now, you can certainly follow progress on my 
