@@ -10,9 +10,11 @@ description = "Stuff about me"
 I graduated with a B.S. in Computer Science from the City College of New York. I am a former backend Software 
 Engineer at **Scholastic, Inc** and currently a Game Developer/Tinkerer at [initialPrefabs](http://www.initialprefabs.com).
 
-Technical languages I've primarily been working with include:
+Technical languages I've primarily been working with include and am heavily interested in are:
 
-* **C++, C#**
+* C++
+* C#
+* Rust
 * Java
 * Python
 
