@@ -5,7 +5,7 @@ description = "Stuff about me"
 
 # About Me #
 
-<img src="/images/profile.jpg" alt="profile" style="border-radius: 50%">
+<img src="/images/profile.jpg" alt="profile" style="border-radius: 20%">
 
 I graduated with a B.S. in Computer Science from the City College of New York. I am a former backend Software 
 Engineer at **Scholastic, Inc** and currently a Game Developer/Tinkerer at [initialPrefabs](http://www.initialprefabs.com).

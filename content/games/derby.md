@@ -12,6 +12,11 @@ running into them and win by default!
 Derby is *still* in early development and uses Unity's preview of the Entity Component System, 
 so stay tuned for more details!
 
+Some of the tools/modules being worked on throughout the development of this game are:
+
+* [SplineTools](https://github.com/psuong/SplineTools)
+* [Math-Utils](https://github.com/psuong/math-utils)
+
 ## Screenshots/Gifs/Videos ##
 
 {{<revealjs progress="true" theme="simple" center=false defaultTiming="10" controls="true">}}
