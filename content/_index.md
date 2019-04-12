@@ -5,8 +5,7 @@ menu:
   - sidebar
 weight: -270
 ---
-I make things, visual things and also programming things. But in all seriousness, I am a game developer highly
-interested
+Welcome to my portfolio feel free to browse around! Here are a few quick links to get started:
 
-* Optimizations and high performance computing
-* AI in games
+* [About Me](/about)
+* [Projects](/projects)

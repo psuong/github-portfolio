@@ -1,12 +1,19 @@
 ---
 title: About
-description: What does Minimo even means?!
-menu: main
+description: Who am I?
+menu:
+  main:
+  sidebar:
+    identifier: about
 weight: -210
 ---
 
-Mínimo is a Spanish word that roughly translate to Minimal.
+I graduated from City College of New York with a Bachelors in Science in Computer Science. I am an avid game developer
+highly interested in
 
-Minimo is a minimalist theme for Hugo.
+ * Optimizations and high performance computing
+ * Game AI
+ * Computer Graphics
 
-Minimo keeps the focus on your content and lets it shine!
+I've built a bunch of small workflow tools within Unity and are opened source on Github. Feel free to take a look at
+various tools I built [here](https://github.com/psuong).
