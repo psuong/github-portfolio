@@ -5,7 +5,7 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
+disqusShortname = "porrithsuong"
 googleAnalytics = ""
 
 Paginate = 5
@@ -70,7 +70,7 @@ linkedin = "porrithsuong"
 twitter = "PorrithSuong"
 
 [params.comments]
-enable = false
+enable = true
 
 # Isso: https://posativ.org/isso/
 [params.comments.isso]
