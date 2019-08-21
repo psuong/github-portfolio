@@ -8,9 +8,19 @@ menu:
 weight: -210
 ---
 
-## Published Projects ##
+So, I've worked on a number of projects over the years and I definitely need to spruce out this page or split it up 
+in the future, but here are a few projects which meant the most to me:
 
-### Dani AI ###
+## Reactive Disposal ##
+Reactive Disposal is a small micro framework to help manage unmanaged memory. Even though I work in C#, I often use a 
+lot of unmanaged/unsafe memory, meaning I have to release every single one of them. To help me manage that, I made a 
+small reactive framework which releases unmanaged memory when an entity is considered "destroyed".
+
+***This is still very much a WIP so expect updates over the coming months!***
+
+* [Github](https://github.com/InitialPrefabs/ReactiveDisposal)
+
+## Dani AI ##
 Dani AI is a node based editor to help design and prototype AI in Unity. Each AI designed and built using Dani AI
 follows a neural network like schema and attempts to treat each agent as an organism with senses that update in
 realtime.
@@ -18,9 +28,11 @@ realtime.
 Senses provide natural information about the simulated world and hook into decisions, where the agent executes a series
 of authored actions from the user. Dani AI is currently used in Ian Cheng's Emissary in the Squat of Gods art exhibit!
 
-You can grab it here on the [Asset Store](https://assetstore.unity.com/packages/tools/ai/dani-ai-108309)
+You can grab it here on the [Asset Store](https://assetstore.unity.com/packages/tools/ai/dani-ai-108309).
 
-### Unity Editor Tool Bag ###
+***I am deprecating DANI AI as I think Machine Learning can certainly do better than my tool.***
+
+## Unity Editor Tool Bag ##
 The Unity Editor Tool Bag provides common decorates for Unity's Inspector to visually enhance the visual capabilities.
 These visual capabilities currently provide:
 
@@ -30,10 +42,6 @@ These visual capabilities currently provide:
 
 The project is open sourced and is actively worked on when I have free time. You can grab it on
 [Github](https://github.com/InitialPrefabs/UnityEditorToolBag)!
-
-## Referencable Projects ##
-Referencable projects are projects which I have pulled out of games I've worked on. While they have some 3rd party
-dependencies and won't compile without those dependencies, you can certainly view them for learning material.
 
 ## Arcade Vehicle Controller ##
 The project is currently dated but provides an example of how to create an arcade vehicle controller in a **Data Oriented Tech Stack**.

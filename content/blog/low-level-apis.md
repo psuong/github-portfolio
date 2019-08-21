@@ -8,7 +8,7 @@ tags:
   - apis
 ---
 
-So I preferrably enjoy working with low level APIs instead of high level APIs. The main reason behind that is the
+So I preferably enjoy working with low level APIs instead of high level APIs. The main reason behind that is the
 amount of control I have as a developer, especially on creating the functionality I need. So if there is an alternative
 API which provides a lower level solution than a high level API which does exactly what I need...
 
@@ -47,7 +47,9 @@ It's a terrible situation to be in and you'll likely plan accordingly to compens
 ## Conclusion ##
 Now if you're an API designer, you should not only think about the high level functionalities your developers will likely
 use. You should still support low level operations such that developers can really extend your API and make something unique
-you've never even thought of supporting.
+you've never even thought of supporting!
 
-A good API is one that can be used multiple times in various similar situations to solve problems many developers face.
+Visibility in the framework encourages that developers should care about what they're using!
+
+Thus, a good API is one that can be used multiple times in various similar situations to solve problems many developers face.
 
