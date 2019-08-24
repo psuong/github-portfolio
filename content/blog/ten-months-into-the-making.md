@@ -58,18 +58,19 @@ Alright so we can list some unknowns/dependencies:
 
 Now this is a basic user story and pretty much you can get the jist of the idea on what we're supposed to implement and why. 
 Now, on a game design approach, this makes sense! And we can likely map this to our code. Now, it's worth mentioning that I 
-personally prefer doing a "data oriented" workflow, where data comes first and is mostly separated from 
+personally prefer doing a "data oriented" workflow, where data comes first and is mostly separated from logic operating 
+on said data.
 
-But let's think about this technically and architecturally. This user story is pretty basic and leaves a lot to the 
+But let's think about this technically. This user story is pretty basic and leaves a lot to the 
 imagination. Before anyone starts working on a user story like this, I usually delve into the technical details for a 
 few minutes and ask the following questions:
 
-1. What is the minimum amount of data I need to do x thing?
-2. Where do I get this data?
-3. What do I do with this data?
-4. Where do I put this data?
+1. What is the minimum amount of data I need to get this working?
+2. Where do I get said data?
+3. What do I do with said data?
+4. Where do I put said data?
 
-Decomposing that user story, I can answer like so:
+So with that said, the user story can be decomposed like so:
 
 1. I need the:
   - a. delta of the health
@@ -86,32 +87,33 @@ Decomposing that user story, I can answer like so:
 4. The only data I need to put back is the positional offset on the camera
 
 By doing this, we go over specifically the data we need to touch and we can catch what we're missing while we're 
-planning, like 
+planning, like: 
 
 * How long does the camera shake?
 
-It allows us as a team to reason about our infrastructure and feature on a technical side and limit the amount of 
-surprises we can expect throughout the development process.
+It allows us as a team to reason about our data and limit the number of surprises we run into during development.
 
 Now I'm all for iterative and collaborative development, but quite a few people have told me that the way I structure 
-this emphasizes a lot on planning early on, which is "anti agile." While I can definitely see that 
+this emphasizes a lot on planning early on, which is "anti agile." While I can definitely see that it may be 
+"anti-agile", I think making sure everyone on the team understands the data of the feature, we can hold each other 
+accountable and keep the standard high.
 
 # Avoiding Burnout
 
 Respect the invidiual who is working on some task! However long it takes is however long it takes. Now in an ideal 
 scenario that would be gold, but we live in a world of deadlines and making sure we live and get paid.
 
-If a task honestly takes too long, provide your teammate some help. Rubber duckying and whiteboarding it helps out a 
-lot. But this is where I personally think it gets interesting.
+If a task honestly takes too long, see if you can help your teammate. Rubber duckying and whiteboarding helps with 
+visualization. But this is where I personally think it gets interesting as you're managing the team.
 
 Imagine this scenario, you've got a looming deadline in about a month (which is not a lot of time when working part 
 time on a project!). Now most indie game developers would go in a period called "crunch," which is a mad dash to the 
 finish line to get whatever remaining tasks done.  
 
-Now this is certainly worth repeating:
+Now this is certainly worth mentioning:
 
-> Crunch is bad!!! By putting your team under crunch, we encourage a culture where crunch is okay and that the short 
-term decisions typically end up being the long term ones.
+> Crunch is bad!!! By putting your team under crunch, we ultimately encourage a culture where crunch is okay and that 
+the short term decisions typically end up being the long term ones.
 
 What I found that worked with the team was:
 
