@@ -192,6 +192,9 @@ template. This follows the same event system that's used in canvas scaling and a
 will produce a copy of the templated message entity. You would write a system that would process the message entity and 
 perform any button logic there. (A more cohesive demo will be coming soon.)
 
+> With buttons, only the legacy input system has been supported. The new input system will be supported much later down 
+the line.
+
 ## Translation
 Translation of elements is supported in a different fashion. The world space matrix and local space matrix do get 
 updated, but those do not actually move the mesh. This has been offloaded to a shader which handles translation. To 
