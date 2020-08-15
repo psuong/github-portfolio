@@ -18,6 +18,12 @@ Currently, the only features supported are:
 * Simple image rendering
 * Text rendering
 * Render orders
+* Static Analysis for batching
+* Button States
+  * Button closing
+* Image Effects interfaced with Universal Render Pipeline Shaders
+* Scaling & Anchoring
+* Text support through char pointers
 
 [Github Link](https://github.com/InitialPrefabs/UGUIDots)
 
