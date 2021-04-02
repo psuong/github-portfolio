@@ -9,4 +9,4 @@ Welcome to my portfolio feel free to browse around! Here are a few quick links t
 
 * [About Me](/about)
 * [Blog](/blog)
-* [Projects](/projects)
+* [Work](/work)

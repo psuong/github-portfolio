@@ -12,8 +12,8 @@ I graduated from City College of New York with a Bachelors in Science in Compute
 highly interested in
 
  * Optimizations and high performance computing
- * Game AI
  * Computer Graphics
+ * Game AI
 
 I've built a bunch of small workflow tools within Unity and are opened source on Github. Feel free to take a look at
 various tools I built [here](https://github.com/psuong).
@@ -21,9 +21,15 @@ various tools I built [here](https://github.com/psuong).
 ## My Work
 I **founded** my own development studio, [initialPrefabs](https://initialprefabs.com), where I primarily do:
 
-* Game Development
-* Creating custom solutions to help other studios and companies build their products/technical demos
-* Create and release open source tools based on my own development cycle working on Carté Diem
+* Game Development consultation
+  * Creating custom solutions to help other studios and companies build their products/technical demos
+* Create and release open source tools based on my own development cycle for internal production
 
-I also do screen captures and write technical scripts to help explain libraries and frameworks for new users with [Thousand Ant](http://thousandant.com/). 
-(Please note, I am not a _video editor_.)
+
+I am also a **technical writer**, writing technical documents and scripts in a digestible fashion. Some clients I've worked 
+with include:
+
+* [Genvid Technologies](https://www.genvidtech.com)
+* [Unity Technologies](https://unity.com)
+
+For more information about work I've done, please check out the Thousand Ant page linked [here](/work/thousandant).
