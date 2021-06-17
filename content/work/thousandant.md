@@ -22,24 +22,49 @@ can use in their games with Unity.
 
 ## Unity Technologies
 
-### Physics Optimizations
+### Kart Microgame
+My team and I were responsible for updating Unity's Kart Microgame to match more modern arcades. Some features I contributed to 
+the project include:
+
+* New game modes
+* Mobile WebGL optimizations for low end phones
+* ML Agents integration (check out the video below)
+
+[Asset Store Link](https://assetstore.unity.com/packages/templates/karting-microgame-150956)
+
+[![ml-agents](https://img.youtube.com/vi/gYwWolRFt98/0.jpg)](https://www.youtube.com/watch?v=gYwWolRFt98 "ML Agents")
+
+### Open Projects Devlog
+
+#### Animation
+[![animation-spotlight](https://img.youtube.com/vi/BenowRsc4BY/0.jpg)](https://www.youtube.com/watch?v=BenowRsc4BY "Open Projects Animations")
+
+### Tutorials
+
+#### Bolt
+[![bolt](https://img.youtube.com/vi/aQceChK-kC4/0.jpg)](https://www.youtube.com/watch?v=aQceChK-kC4 "Bolt")
+
+#### Adaptive Performance
+[![adaptive-performance](https://img.youtube.com/vi/d5O4Uw6gPBI/0.jpg)](https://www.youtube.com/watch?v=d5O4Uw6gPBI "Adaptive Performance")
+
+#### Physics Optimizations
 [![physics-optimization](https://img.youtube.com/vi/pTz3LMQpvfA/0.jpg)](https://www.youtube.com/watch?v=pTz3LMQpvfA "Physics Optimizations")
 
-### Shader Graph Feature Video
+#### Shader Graph Feature Video
 [![shader graph](https://img.youtube.com/vi/-QcwEYOHt2I/0.jpg)](https://www.youtube.com/watch?v=-QcwEYOHt2I "Shader Graph 10")
 
-### Editor Scripting with UI Toolkit
+#### Editor Scripting with UI Toolkit
 [![ui toolkit](https://img.youtube.com/vi/mTjYA3gC1hA/0.jpg)](https://www.youtube.com/watch?v=mTjYA3gC1hA "UI Toolkit")
 
-### Scriptable Objects Tutorial
+#### Scriptable Objects Tutorial
 [![scriptable objects](https://img.youtube.com/vi/PVOVIxNxxeQ/0.jpg)](https://www.youtube.com/watch?v=PVOVIxNxxeQ "Scriptable Objects" )
 
-### Kart Microgame Updates & Video
+#### Kart Microgame Updates & Video
 In addition to writing the script for the video and providing the screen capture, I also updated and trained the official 
 ML agents for Unity's Kart Microgame update.
 [![ml agents](https://img.youtube.com/vi/gYwWolRFt98/0.jpg)](https://www.youtube.com/watch?v=gYwWolRFt98 "ML Agents")
 
-### Device Simulator
+#### Device Simulator
 [![device simulator](http://img.youtube.com/vi/uokF9CmUs9c/0.jpg)](https://www.youtube.com/watch?v=uokF9CmUs9c "Device Simulator")
 
 There are more videos coming and I will update this when Unity officially publishes the videos!

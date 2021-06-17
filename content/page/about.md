@@ -25,7 +25,6 @@ I **founded** my own development studio, [initialPrefabs](https://initialprefabs
   * Creating custom solutions to help other studios and companies build their products/technical demos
 * Create and release open source tools based on my own development cycle for internal production
 
-
 I am also a **technical writer**, writing technical documents and scripts in a digestible fashion. Some clients I've worked 
 with include:
 
@@ -33,3 +32,8 @@ with include:
 * [Unity Technologies](https://unity.com)
 
 For more information about work I've done, please check out the Thousand Ant page linked [here](/work/thousandant).
+
+# Contact
+Want to get in touch with me? Email me at **porrith dot suong @ gmail dot com**.
+
+If you want to get in touch with me via my studio, InitialPrefabs, email me at **info @ initialprefabs dot com**.
