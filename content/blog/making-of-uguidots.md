@@ -108,8 +108,6 @@ Once the current character is finished, advance to the next character by computi
 letter. The offsetted position then becomes the start position of the next character. This would continue until the 
 current character overshoots the max width of the line. From there, the next character is positioned on the next line.
 
-**TODO: Provide a more indepth explanation of alignment**
-
 For a more detailed look of how fonts are generated, the [OpenGL tutorial](https://learnopengl.com/In-Practice/Text-Rendering) 
 provides a thorough step by step process. The algorithm is actually implemented and adapted in UGUIDOTS using 
 TextMeshPro's material and to account for relative screen size.
@@ -148,7 +146,7 @@ no longer runs.
 
 This is implemented into the `CanvasScalerSystem` because the system should only run if the screen resolution changes.
 
-> There isn ECS events developed by [jeffvella](https://github.com/jeffvella/UnityEcsEvents/stargazers) which builds 
+> There is an ECS events developed by [jeffvella](https://github.com/jeffvella/UnityEcsEvents/stargazers) which builds 
 event queues to publish events at runtime.
 
 ## Anchoring
