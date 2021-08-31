@@ -47,7 +47,7 @@ The project was first released and shown at Museum of Modern Art in 2017.
 
 ## Bag of Beliefs (Released){#bob}
 
-[!banner](https://d2w9rnfcy7mm78.cloudfront.net/2663713/original_5961e121e6b2cc91b90ce77bda1563f8.jpg)
+![banner](https://d2w9rnfcy7mm78.cloudfront.net/2663713/original_5961e121e6b2cc91b90ce77bda1563f8.jpg)
 
 Bag of Beliefs is another art exhibit and game, where attendees can interact with a sentient create 
 called BOB. BOB uses exhibit provided phones to allow attendees to interact with it in order to receive 

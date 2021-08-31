@@ -10,6 +10,7 @@ Welcome to my portfolio feel free to browse around! Here are a few quick links t
 * [About Me](/about)
 * [Blog](/blog)
 * [Work](/work)
+* [Games](/work/games)
 
 # Contact
 Want to get in touch with me? Email me at **porrith dot suong @ gmail dot com**.
