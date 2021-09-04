@@ -17,7 +17,5 @@ of authored actions from the user.
 
 You can grab it here on the [Asset Store](https://assetstore.unity.com/packages/tools/ai/dani-ai-108309).
 
-***I am deprecating DANI AI since Unity's MLAgent Toolkit is a much longer term solution for game devs/designers.***
-
 ## Projects using DANI AI:
 * [Emissary in the Squat of Gods](http://iancheng.com/emissaries)

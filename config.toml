@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Game Developer, highly interested in low level tech :)"
+description = "Game Developer, highly interested in low level tech"
 title404 = "Looks like you hit a dead end!"
 
 [params.assets]

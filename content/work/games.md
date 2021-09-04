@@ -17,9 +17,11 @@ Here are some of the games I've worked on over the past few years!
     * [Bag of Beliefs](#bob)
     * [Kart Microgame](#kart)
     * [Kung Fu Kickball](#kfk)
+    * [Cell To Singularity](#cells)
   * Not Released
     * [Inwards](#inwards)
-
+    * [Gestalt: Steam & Cinder](#gestalt)
+    * [Kitty in the Box VR](#kittyvr)
 ---
 
 # Released
@@ -81,7 +83,19 @@ building a classical experts based AI system (State Machine/Decision Trees).
 
 The research to train the AI was primarily based on the following [paper](https://arxiv.org/pdf/1702.06230.pdf).
 
-Kung Fu Kickball is recently released as of 2021.
+Kung Fu Kickball is recently [released as of 2021](https://store.steampowered.com/app/1004620/KungFu_Kickball/).
+
+## Cell to Singularity{#cells}
+
+![banner](https://www.celltosingularity.com/img/cell_to_singularity_app_icon.png)
+
+Cell to Singularity is an educational clicker idle game, where I was contracted to help Computer 
+Lunch develop a feasible save system in their existing architecture. This was to help delay and 
+potentially prevent users from editing their save file which may allow them to cheat and gain 
+tons of resources. Simultaneously, this was used as the backbone for the team's cloud saving 
+architecture, as save data was stamped and signed allowing for easy version control.
+
+For more information on where you can grab Cell To Singularity, please see [here](https://www.celltosingularity.com/).
 
 ---
 
@@ -95,3 +109,23 @@ Inwards is a VR game about exploring your choices. Most of my work with Inwards 
 workflow tools for teammates and optimizing the current rendering stack in order to improve performance.
 
 [Link](https://www.vrwiz.co/projects)
+
+## Gestalt Steam & Cinder{#gestalt}
+
+![banner](https://cdn.akamai.steamstatic.com/steam/apps/1231990/header.jpg?t=1629970667)
+
+In 2018, I was contracted to help Metamorphosis Games build Gestalt: Steam & Cinder. Here I was responsible 
+for creating editor tools to help the team visualize AI actions in a behavior tree.
+
+[Link](https://store.steampowered.com/app/1231990/Gestalt_Steam__Cinder/)
+
+## Kitty in the Box VR{#kittyvr}
+
+![banner](http://mokuni.com/press/Kitty%20in%20the%20Box%20VR/images/header.png)
+
+Kitty in the Box VR originally started as marketing material for Kitty in the Box 2. Eventually, the folks 
+at Mokuni Games found inspiration to turn it into a game and so I started transitioning from prototyping 
+work in VR into creating the backbone infrastructure to allow users to interact with Sushi. I developed 
+the navigational sampling system such that Sushi would always jump on valid surfaces.
+
+[Link](http://mokuni.com/press/sheet.php?p=Kitty%20in%20the%20Box%20VR)

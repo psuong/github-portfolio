@@ -215,7 +215,6 @@ will not be clipped from rendering so you can see how much fill is applied witho
 
 ![translating-fill](https://raw.githubusercontent.com/InitialPrefabs/UGUIDots.Samples/master/Images/shaders.gif)
 
-
 ## Putting this all together 
 Once each elements local vertex data is built, the local vertices are copied into the Canvas' vertex and index buffer. The 
 batches that were defined at Editor time now play an important part here. The Canvas entity contains spans which define 
