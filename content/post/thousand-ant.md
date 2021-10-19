@@ -9,7 +9,9 @@ summary: "Things I've worked on at Thousand Ant"
 At Thousand Ant I had the pleasure of creating many videos and technical demos for 
 [Thousand Ant](https://www.youtube.com/c/ThousandAnt), 
 [Unity](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg), and 
-[Genvid Technologies](https://www.youtube.com/channel/UCw8ZzitTKiLkcY7jGC4PNjw).
+[Genvid Technologies](https://www.youtube.com/channel/UCw8ZzitTKiLkcY7jGC4PNjw). Here is a 
+growing list of all of the video content I have worked on for the aforementioned 
+companies.
 
 # Table of Contents
   * Thousand Ant
@@ -49,6 +51,8 @@ the project include:
 
 * New game modes
 * Mobile WebGL optimizations for low end phones
+  * Optimized a 35ms runtime on Samsung S6, iPhone6s, & Google Pixel 1  to 18 ms
+  * Please visit the link [here](https://psuong.gitlab.io/kart-silver/) to test the game on mobile
 * ML Agents integration (check out the video below)
 
 [Asset Store Link](https://assetstore.unity.com/packages/templates/karting-microgame-150956)
@@ -88,8 +92,6 @@ ML agents for Unity's Kart Microgame update.
 
 ### Device Simulator {#devsim}
 [![device simulator](http://img.youtube.com/vi/uokF9CmUs9c/0.jpg)](https://www.youtube.com/watch?v=uokF9CmUs9c "Device Simulator")
-
-There are more videos coming and I will update this when Unity officially publishes the videos!
 
 ## Genvid Technologies {#genvid}
 Genvid provides a streaming engine solution to help interface Twitch viewers with the game they are viewing by allowing 
