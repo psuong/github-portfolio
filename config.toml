@@ -7,17 +7,17 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [params]
-  author = "Porrith Suong"
-  description = "In solitude, where we are least alone."
-  github = "psuong"
-  twitter = "PorrithSuong"
-  linkedin = "PorrithSuong"
-  email = "porrith.suong@gmail.com"
-  url = "https://psuong.github.io"
-  keywords = "blog, google analytics"
-  rss = false
-  lastmod = false
-  location = "New York"
+  author          = "Porrith Suong"
+  description     = "Posts are not commits on this site! Made with github-style hugo theme (via MeiK)"
+  github          = "psuong"
+  twitter         = "PorrithSuong"
+  linkedin        = "PorrithSuong"
+  email           = "porrith.suong@gmail.com"
+  url             = "https://psuong.github.io"
+  keywords        = "blog, google analytics"
+  rss             = false
+  lastmod         = false
+  location        = "New York"
   userStatusEmoji = ""
 
 [frontmatter]
