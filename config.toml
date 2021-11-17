@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://psuong.github.io"
 languageCode = "en"
 title = "Porrith Suong"
 theme = "github-style"

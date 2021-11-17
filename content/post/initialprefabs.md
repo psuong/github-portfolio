@@ -51,10 +51,10 @@ all elements be draw efficiently in 1 draw call.
 ![banner](https://cdn.akamai.steamstatic.com/steam/apps/1231990/header.jpg?t=1629970667)
 
 In 2018, I was contracted to help Metamorphosis Games build Gestalt: Steam & Cinder. Here I was 
-responsible for developing behavior trees for many of the grunt enemies in their games, developing 
-and finetuning a generic cross fade animation system for responsive controls for their main 
-character, and build editor tools such that the game designers can tweak paramteres easily 
-without having to touch the code.
+responsible for developing hierarchical state machines (HSM) for many of the grunt enemies in their 
+games, developing and finetuning a generic cross fade animation system for responsive controls 
+for all characters, and built editor tools such that the game designers can tweak paramteres easily 
+without having to touch the codebase.
 
 [Steam](https://store.steampowered.com/agecheck/app/1231990/)
 
