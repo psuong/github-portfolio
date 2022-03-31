@@ -1,10 +1,11 @@
 ---
 title: "Scaffolding in Development"
-date: 2021-10-18
+date: 2019-04-12
 draft: false
 
 summary: "Thoughts on development"
 ---
+
 # Scaffolding in Development
 
 So I preferably enjoy working with low level APIs instead of high level APIs. The main reason behind that is the amount 
@@ -23,7 +24,9 @@ A low level API which allows you to chain functions together to create the desir
 Scaffolds in construction are temporary structures to aid in the construction or repair of a building or structure. But 
 as a bystander you can clearly see how construction workers are constructing the building and their methodology. Take a 
 look at the image of a bamboo scaffold used in Hong Kong below, you can clearly see how workers are going about the billboard.
-Image credit goes to Wikipedia, with photo taken by Greg Hume
+
+> Image credit goes to Wikipedia, with photo taken by Greg Hume
+![hong-kong-bamboo-scaffold](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/CantileverScaffold.jpg/1280px-CantileverScaffold.jpg)
 
 So relating back to development, scaffolds can not only give you the guidelines to create a high level API, but also the 
 logical reasoning and the specific data you’ll need to solve the problem you have! An API/framework that provides this 
@@ -35,7 +38,7 @@ Imagine as your developing a feature using some API. Now this API gives you an o
 solves the problem you’re trying to solve with a single function! Now that’s a whole lot of time saved and you can now 
 move onto the next feature.
 
-But…some time down the line you need to tweak a functionality within the API to allow you do to do something a bit more 
+But... some time down the line you need to tweak a functionality within the API to allow you do to do something a bit more 
 grand. You look through StackOverflow, a forum, or Github issues to get some kind of idea on how to tweak the API’s 
 pipeline, but then you realize that currently there is no way to solve your particular solution and the developer(s) 
 of said API wouldn’t support said feature until X months later.

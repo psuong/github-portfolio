@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:psuong/psuong.github.io.git
 	branch = master
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = git@github.com:psuong/github-style.git
