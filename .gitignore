@@ -1,5 +1,8 @@
 ### Vim ###
 *.swp
 
+### Hugo ###
+*.hugo_build.lock
+
 ### OSX ###
 *.DS_Store
