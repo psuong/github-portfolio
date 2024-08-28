@@ -17,6 +17,7 @@ At Decoy Games, I was a Senior Engineer & Graphics Programmer where I
     * Developed custom post processing effects (bloom, screen space outlines, etc) to target specific rendering layers without affecting everything universally
     * Developed and implemented concepted VFX created by the art team with a custom architecture to maintain particle count efficiency and throughput
 * Planned low level archithecture for efficient memory usage 
+* Added initial set of unit tests to ensure build stability
 * Explained technical limitations for visual features desired by the team
 * Standardized usage of C# source generators/analyzers to provide static analysis
 * Analyzed project wide performance of runtime/resource usage to identify regressions to address in future sprints
