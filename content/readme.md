@@ -12,6 +12,14 @@ I'm a game developer highly interested in
 
 # My Work
 
+## Decoy Games, LLC
+At [Decoy Games](https://www.decoygames.com/), I am a Senior Engineer & Graphics programmer, where I:
+* Develop rendering features to achieve a visual target given the concept art
+* Introduce archithecture to manage memory efficiently through custom allocators
+* Profile and perform project wide analysis for performance degradation
+
+### For a more detailed explanation of my work at Decoy Games, LLC, see the link [here](post/decoygames)
+
 ## InitialPrefabs
 I cofounded my own development studio, [initialPrefabs](https://initialprefabs.com), where I 
 primarily do:
@@ -32,3 +40,7 @@ Some clients I have worked with include:
 * [Genvid Technologies](https://www.genvidtech.com/)
 
 ### For a list of videos and technical demos I have made via Thousand Ant, see the link [here](post/thousand-ant).
+
+# Spare Time
+I build a lot of open source tools for game development and am currently building a [custom rendering engine in Rust & Vulkan](https://github.com/psuong/geometroid).
+For open source tools please see [initialPrefab's Github](https://github.com/InitialPrefabs).
