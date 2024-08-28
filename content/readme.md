@@ -31,7 +31,7 @@ primarily do:
 ### For a list of games I have worked on via initialPrefabs, see the link [here](post/initialprefabs)
 
 ## Thousand Ant
-At [Thousand Ant](http://thousandant.com), I am a contract software engineer and technical writer 
+At [Thousand Ant](http://thousandant.com), I was a contract software engineer and technical writer 
 where I help clients create demos and write technical scripts for their products and services.
 
 Some clients I have worked with include:
