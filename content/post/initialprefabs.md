@@ -162,4 +162,3 @@ building a classical experts based AI system (State Machine/Decision Trees).
 The research to train the AI was primarily based on the following [paper](https://arxiv.org/pdf/1702.06230.pdf).
 
 Kung Fu Kickball is recently [released as of 2021](https://store.steampowered.com/app/1004620/KungFu_Kickball/).
-

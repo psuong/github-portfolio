@@ -2,7 +2,6 @@ baseURL = "https://psuong.github.io"
 languageCode = "en"
 title = "Porrith Suong"
 theme = "github-style"
-googleAnalytics = ""
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
@@ -14,11 +13,14 @@ pygmentsUseClasses = true
   linkedin        = "PorrithSuong"
   email           = "porrith.suong@gmail.com"
   url             = "https://psuong.github.io"
-  keywords        = "blog, google analytics"
-  rss             = false
-  lastmod         = false
-  location        = "New York"
-  userStatusEmoji = ""
+  keywords        = "blog, portfolio"
+  rss             = true
+  lastmod         = true
+  location        = "Brooklyn"
+  userStatusEmoji = "😀"
+  favicon         = "/images/github.png"
+  avatar          = "/images/avatar.png"
+  headerIcon      = "/images/github-mark-white.png"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
