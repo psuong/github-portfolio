@@ -17,6 +17,7 @@ At [Decoy Games](https://www.decoygames.com/), I am a Senior Engineer & Graphics
 * Develop rendering features to achieve a visual target given the concept art
 * Introduce archithecture to manage memory efficiently through custom allocators
 * Profile and perform project wide analysis for performance degradation
+* Created custom tools for the art team to streamline workflow
 
 ### For a more detailed explanation of my work at Decoy Games, LLC, see the link [here](post/decoygames)
 
@@ -31,7 +32,7 @@ primarily do:
 ### For a list of games I have worked on via initialPrefabs, see the link [here](post/initialprefabs)
 
 ## Thousand Ant
-At [Thousand Ant](http://thousandant.com), I am a contract software engineer and technical writer 
+At [Thousand Ant](http://thousandant.com), I was a contract software engineer and technical writer 
 where I help clients create demos and write technical scripts for their products and services.
 
 Some clients I have worked with include:
@@ -42,5 +43,9 @@ Some clients I have worked with include:
 ### For a list of videos and technical demos I have made via Thousand Ant, see the link [here](post/thousand-ant).
 
 # Spare Time
-I build a lot of open source tools for game development and am currently building a [custom rendering engine in Rust & Vulkan](https://github.com/psuong/geometroid).
-For open source tools please see [initialPrefab's Github](https://github.com/InitialPrefabs).
+
+## Geometroid - Rendering Engine
+* I am currently working on a **Rust** & **Vulkan** based rendering engine, [Geometroid](https://github.com/psuong/geometroid/tree/feature/hlsl-pipeline).
+    * HLSL shader pipeline similar to Unity allowing you to write the Vertex and Fragment shader pipeline.
+    * A procedural shape library allowing you to construct meshes on the fly and submit for rendering.
+* I've worked on some open source tooling for Unity which can be viewed on the [initialPrefab Github](https://github.com/InitialPrefabs).
