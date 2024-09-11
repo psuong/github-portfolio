@@ -13,6 +13,7 @@ around June of 2016 with my brother.
 I primarily focus on building custom tools for game developers and optimizations for mobile, 
 desktops, and VR. Some studios I have worked with include:
 
+* [The Feast](#the-feast)
 * [Computer Lunch](#computerlunch)
 * [ESC Game Theater(Defunct)](#escgametheater)
 * [Metamorphasis Games](#metagames)
@@ -21,6 +22,20 @@ desktops, and VR. Some studios I have worked with include:
 * [Unity Technologies](#unity)
 * [vrWiz](#vrwiz)
 * [Whalefood Games](#whalefoodgames)
+
+## The Feast {#the-feast}
+[![The Feast](https://img.youtube.com/vi/5E8Hh8P0HCE/maxresdefault.jpg)](https://www.youtube.com/watch?v=5E8Hh8P0HCE "The Feast")
+
+The Feast, is a rogue like developed by Tim Conkling (creator of [AntiHero](https://antihero-game.com/)). On this 
+project, I was primarily responsible for helping the team migrate from a Forward renderer to a custom deferred 
+renderer with custom cell shading. **Click the banner for a link to the in game trailer!**
+
+This meant overriding Unity's default deferred pipeline in URP and encoding the correct data to the GBuffers as 
+well as support common features found in URP such as Light Layers, dynamic occlusion culling, integration of a custom
+deferred pipeline in artist friendly tools such as ShaderGraph and Amplify.
+
+Additionally, I developed a procedural lantern spot light system, that dynamically scales to the surface it's pointed to, mimicing
+volumetric lights.
 
 ## Computer Lunch {#computerlunch}
 ### Cell to Singularity
