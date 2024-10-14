@@ -3,6 +3,10 @@ title: "Decoy Games, LLC"
 date: 2024-08-27
 draft: false
 pinned: true
+categories:
+  - work
+tags:
+  - work
 
 summary: "The work I have done @ Decoy Games, LLC"
 ---

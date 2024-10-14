@@ -3,6 +3,7 @@ date: 2020-02-05
 title: DANI AI
 authors: ["porrithsuong"]
 categories:
+  - tools
   - ai
 tags:
   - ai

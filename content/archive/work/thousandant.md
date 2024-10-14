@@ -5,6 +5,9 @@ authors: ["porrithsuong"]
 categories:
   - videos
   - gamedev
+  - work
+tags:
+  - work
 ---
 
 # Table of Contents

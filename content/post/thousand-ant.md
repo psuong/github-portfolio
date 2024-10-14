@@ -4,6 +4,10 @@ date: 2021-10-12T19:57:02-04:00
 pinned: true
 draft: false
 summary: "Things I've worked on at Thousand Ant"
+categories:
+  - work
+tags:
+  - work
 ---
 
 At Thousand Ant I had the pleasure of creating many videos and technical demos for 

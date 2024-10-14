@@ -3,6 +3,7 @@ date: 2021-08-31
 title: Games
 authors: ["porrithsuong"]
 categories:
+  - work
   - games
 tags:
   - games
