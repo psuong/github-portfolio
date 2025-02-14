@@ -48,12 +48,12 @@ Some clients I have worked with include:
 * I am currently working on a **Rust** & **Vulkan** based rendering engine, [Geometroid](https://github.com/psuong/geometroid/tree/feature/hlsl-pipeline).
     * HLSL shader pipeline similar to Unity allowing you to write the Vertex and Fragment shader pipeline.
     * A procedural shape library allowing you to construct meshes on the fly and submit for rendering.
-* Minimal vulkan template with egui & winit integration in Rust
+* [Minimal vulkan template](https://github.com/psuong/min-vulkan-template) with egui & winit integration in Rust
 
 ## Open Source Repos @ InitialPrefabs
 * I've worked on some open source tooling for Unity which can be viewed on the [initialPrefab Github](https://github.com/InitialPrefabs) including:
   * [C# Task Extensions](https://github.com/InitialPrefabs/InitialPrefabs.TaskExtensions)
-  * [UI Document Post Processor with Code Generation](https://github.com/InitialPrefabs/UIToolkitPostProcessor)
+  * [UI Document Post Processor & Code Generation](https://github.com/InitialPrefabs/UIToolkitPostProcessor)
   * [MSDF Font Atlas Generation & Font Rendering](https://github.com/InitialPrefabs/InitialPrefabs.Msdf)
   * [Customizable Texture Importers](https://github.com/InitialPrefabs/ImportOverrides)
   * [MiniAudio integration with Unity DOTS](https://github.com/InitialPrefabs/MiniAudio.Unity)
