@@ -13,7 +13,7 @@ I'm a game developer highly interested in
 # My Work
 
 ## Decoy Games, LLC
-At [Decoy Games](https://www.decoygames.com/), I am a Senior Engineer & Graphics programmer, where I:
+At [Decoy Games](https://www.decoygames.com/), I was a Senior Engineer & Graphics programmer, where I:
 * Develop rendering features to achieve a visual target given the concept art
 * Introduce archithecture to manage memory efficiently through custom allocators
 * Profile and perform project wide analysis for performance degradation
@@ -44,8 +44,18 @@ Some clients I have worked with include:
 
 # Spare Time
 
-## Geometroid - Rendering Engine
+## Personal Projects
 * I am currently working on a **Rust** & **Vulkan** based rendering engine, [Geometroid](https://github.com/psuong/geometroid/tree/feature/hlsl-pipeline).
     * HLSL shader pipeline similar to Unity allowing you to write the Vertex and Fragment shader pipeline.
     * A procedural shape library allowing you to construct meshes on the fly and submit for rendering.
-* I've worked on some open source tooling for Unity which can be viewed on the [initialPrefab Github](https://github.com/InitialPrefabs).
+* Minimal vulkan template with egui & winit integration in Rust
+
+## Open Source Repos @ InitialPrefabs
+* I've worked on some open source tooling for Unity which can be viewed on the [initialPrefab Github](https://github.com/InitialPrefabs) including:
+  * [C# Task Extensions](https://github.com/InitialPrefabs/InitialPrefabs.TaskExtensions)
+  * [UI Document Post Processor with Code Generation](https://github.com/InitialPrefabs/UIToolkitPostProcessor)
+  * [MSDF Font Atlas Generation & Font Rendering](https://github.com/InitialPrefabs/InitialPrefabs.Msdf)
+  * [Customizable Texture Importers](https://github.com/InitialPrefabs/ImportOverrides)
+  * [MiniAudio integration with Unity DOTS](https://github.com/InitialPrefabs/MiniAudio.Unity)
+
+<a rel="me" href="https://mastodon.gamedev.place/@psuong">Mastodon</a>
