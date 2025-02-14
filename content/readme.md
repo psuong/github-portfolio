@@ -58,4 +58,4 @@ Some clients I have worked with include:
   * [Customizable Texture Importers](https://github.com/InitialPrefabs/ImportOverrides)
   * [MiniAudio integration with Unity DOTS](https://github.com/InitialPrefabs/MiniAudio.Unity)
 
-<a rel="me" href="https://mastodon.gamedev.place/@psuong">Mastodon</a>
+<a rel="me" href="https://mastodon.gamedev.place/@psuong"></a>
