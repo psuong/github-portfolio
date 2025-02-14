@@ -24,3 +24,6 @@ pygmentsUseClasses = true
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[markup.goldmark.renderer]
+unsafe = true
